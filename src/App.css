@@ -1,0 +1,26 @@
+* {
+  background-color: black;
+  color: white;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.App input {
+  margin-top: 20px;
+  width: 300px;
+  height: 30px;
+  font-size: 20px;
+  padding-left: 10px;
+}
+
+p {
+  margin: 20px;
+  margin-top: 50px;
+  font-size: 18px;
+
+}
